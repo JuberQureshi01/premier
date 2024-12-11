@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "Montserrat";
 }
 
 html,
@@ -339,6 +339,15 @@ width: 100%;
     font-size: 3vw;
     margin-bottom: 5vh;
     /* font-weight: 700; */
+}
+.elem{
+    font-size: 2.5vw !important;
+}
+.elem-part2 h1 {
+    font-size: 3vw !important;
+}
+.elem-part2 h5 {
+    font-size: 1.7vw !important;
 }
 .elem{
     height: 17vh;
